@@ -5,7 +5,7 @@
 /**
  * print_dog - prints a struct dog
  * @d: struct dog to print
- * @Author: Asaka Hamzah-Mohammed Awinebisah
+ * Author: Asaka Hamzah-Mohammed Awinebisah
  */
 void print_dog(struct dog *d)
 {
